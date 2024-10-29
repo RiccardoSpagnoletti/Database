@@ -5,7 +5,7 @@ This project involves designing a relational database on Oracle MySQL to manage 
 ## Project Overview
 
 The database stores information for a smart building system used by a company managing construction and renovation projects. The goal is to enhance building safety by enabling efficient risk assessment and predictive maintenance through data collection and analysis.
-[Visualizza il documento PDF](Project/E-R ristrutturato.pdf)
+[Visualizza il documento PDF](Project/E-R_ristrutturato.pdf)
 
 ## Project Requirements
 
