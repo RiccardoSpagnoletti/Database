@@ -53,16 +53,6 @@ The final deliverables include:
    - Rationale behind each decision, particularly in areas like redundancy and functional dependencies.
    - An explanation of each implemented analytic function.
 
-## Evaluation
-
-During the project review, both team members must demonstrate:
-- A deep understanding of the project design, including any parts completed by either member.
-- Critical thinking in defending design choices.
-- Clear communication skills when explaining the code and design.
-
-The project will be graded on a scale of 30, with the same grade applied to both team members.
-
-## Authors
 
 This project was developed by students of the **Computer Engineering** program at the **University of Pisa** under the supervision of Prof. Gigliola Vaglini and Ing. Francesco Pistolesi.
 
