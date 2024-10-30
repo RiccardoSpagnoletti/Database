@@ -12,7 +12,7 @@ The database stores information for a smart building system used by a company ma
 The project is divided into several key phases:
 
 ### 1. Specification Analysis
-   - Carefully analyze the project specifications to understand the data requirements and determine the optimal organization of data.
+   - Carefully analyze the project specifications to understand the data requirements and determine the optimal organization of data. [Specification_ITA](Project/Progetto_Basi_di_dati_2022.pdf)
 
 ### 2. Conceptual Design
    - Create an Entity-Relationship (E-R) diagram that includes entities, attributes, associations, and cardinalities, following the course's notation.
