@@ -54,7 +54,7 @@ The final deliverables include:
    - An explanation of each implemented analytic function.
 
 
-This project was developed by students of the **Computer Engineering** program at the **University of Pisa** under the supervision of Prof. Gigliola Vaglini and Ing. Francesco Pistolesi.
+This project was developed for the **Computer Engineering** program at the **University of Pisa** under the supervision of Prof. Gigliola Vaglini and Ing. Francesco Pistolesi.
 
 ---
 
