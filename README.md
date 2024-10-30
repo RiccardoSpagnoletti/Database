@@ -14,10 +14,10 @@ The project is divided into several key phases:
    - Carefully analyze the project specifications to understand the data requirements and determine the optimal organization of data. [Specification_ITA](Project/Progetto_Basi_di_dati_2022.pdf)
 
 ### 2. Conceptual Design
-   - Create an Entity-Relationship (E-R) diagram that includes entities, attributes, associations, and cardinalities, following the course's notation. [Diagram_E-R](Project/E-R_ristrutturato.pdf)
+   - Create an Entity-Relationship (E-R) diagram that includes entities, attributes, associations, and cardinalities, following the course's notation. [Diagram_E-R](Project/E-R_non_ristrutturato.pdf)
 
 ### 3. E-R Diagram Restructuring
-   - Refine the initial E-R diagram by removing generalizations and complex attributes, preparing it for translation into a relational model. [Diagram_E-R](Project/E-R_non_ristrutturato.pdf)
+   - Refine the initial E-R diagram by removing generalizations and complex attributes, preparing it for translation into a relational model. [Diagram_E-R](Project/E-R_ristrutturato.pdf)
 
 ### 4. Identifying Data Operations
    - Define at least 8 significant operations (queries, inserts, updates, deletions) for managing the data effectively. These operations should help optimize the database's performance under typical workloads.
